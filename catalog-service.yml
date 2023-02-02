@@ -1,0 +1,2 @@
+sharedlibrary:
+  greeting: "Welcome to the shared library book catalog from the config server"
